@@ -24,7 +24,7 @@ h2{
 }
 .status{
     height: 100vh;
-    overflow: scroll;
+    overflow: auto;
     filter: drop-shadow(-1px 3px 3px rgba(0, 0, 0, 0.2));
 }
 #no_status{
