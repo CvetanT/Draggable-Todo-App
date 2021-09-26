@@ -52,7 +52,7 @@ h2{
     padding:20px;
     text-align: left;
     margin: 20px 0;
-    clip-path: polygon(
+    /* clip-path: polygon(
         1% 2%,
         3.5% 0.1%,
         8.9% 2.7%,
@@ -133,7 +133,7 @@ h2{
         0.8% 17.4%,
         2.5% 8.6%,
         1.1% 5.5%
-    );
+    ); */
    
 
 }
