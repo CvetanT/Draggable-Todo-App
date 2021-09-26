@@ -31,7 +31,7 @@ function dragOver(e) {
 };
 
 function dragEnter() {
-    this.style.border = '1px dashed #ccc';
+    this.style.border = '3px dashed #ccc';
 };
 
 function dragLeave() {
